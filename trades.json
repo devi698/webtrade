@@ -1138,5 +1138,17 @@
     "status": "Open",
     "timestamp": "2026-06-02T21:48:28.865Z",
     "profit": 0
+  },
+  {
+    "id": "signal_1780436938324_3vknaz",
+    "account": "25449835",
+    "masterAccNum": "25449835",
+    "symbol": "AUDUSD",
+    "type": "SELL",
+    "lot": 0.01,
+    "masterLot": 0.01,
+    "status": "Open",
+    "timestamp": "2026-06-02T21:48:58.324Z",
+    "profit": 0
   }
 ]
