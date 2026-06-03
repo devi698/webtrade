@@ -1258,5 +1258,17 @@
     "status": "Open",
     "timestamp": "2026-06-03T06:15:45.260Z",
     "profit": 0
+  },
+  {
+    "id": "signal_1780467583714_ggfkkw",
+    "account": "25449835",
+    "masterAccNum": "25449835",
+    "symbol": "EURUSD",
+    "type": "SELL",
+    "lot": 0.02,
+    "masterLot": 0.02,
+    "status": "Open",
+    "timestamp": "2026-06-03T06:19:43.714Z",
+    "profit": 0
   }
 ]
