@@ -1330,5 +1330,14 @@
     "status": "Open",
     "timestamp": "2026-06-03T08:29:49.825Z",
     "profit": 0
+  },
+  {
+    "account": "25449835",
+    "masterAccNum": "25449835",
+    "symbol": "EURUSD",
+    "type": "BUY",
+    "lot": 0.1,
+    "masterLot": 0.1,
+    "status": "Open"
   }
 ]
