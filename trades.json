@@ -1339,5 +1339,12 @@
     "lot": 0.1,
     "masterLot": 0.1,
     "status": "Open"
+  },
+  {
+    "account": "25449835",
+    "symbol": "EURUSD",
+    "type": "BUY",
+    "lot": 0.1,
+    "status": "Open"
   }
 ]
